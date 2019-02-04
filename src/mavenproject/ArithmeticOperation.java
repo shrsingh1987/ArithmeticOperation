@@ -21,4 +21,9 @@ public class ArithmeticOperation {
 		int c = a/b;
 		return c;
 	}
+	public int modus(int a, int b)
+	{
+		int c = a%b;
+		return c;
+	}
 }

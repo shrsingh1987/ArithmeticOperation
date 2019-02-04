@@ -8,7 +8,7 @@ public class MavenProject {
 		ArithmeticOperation op = new ArithmeticOperation();
 		int a = 20;
 		int b = 30;
-		int c = op.multiply(a,b);
+		int c = op.modus(a,b);
 		System.out.printf("Value of Operation = " + c);
 	}
 
